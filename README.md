@@ -2,6 +2,12 @@
 
 Analytical reproducibility package for **QUORUM-D: A dimension-aware multi-judge framework for reliable and cost-efficient evaluation of large language models**.
 
+**Authors:** Arpan Kumar Ghosh, Soham Ghosh, and Anik Goswami.
+
+## Graphical Abstract
+
+![QUORUM-D Graphical Abstract](results/figures/QUORUM-D_graphical_abstract.png)
+
 ## Scope
 
 Version 0.1.0 implements Equations 1–5, the fixed-panel variance diagnostics, heterogeneous cost example, binary correlation construction, and pivotal-margin property. Figure generators reproduce the numerical curves (not identical visual layout) of Figures 4–6 and Table 6. No API calls, credentials, employer materials or real judge ballots are required. The simulations use synthetic data. A finite-menu synthetic reference implementation demonstrates calibration, joint-policy selection, shared-call accounting, and held-out deployment decisions. Live LLM execution, dynamic candidate generation, and production monitoring are outside this reference implementation.
