@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="7in" height="3in" viewBox="0 0 700 300" role="img"><title>Covariance-aware weighting</title><desc>Analytical independent Bernoulli error indicators with unequal marginal variances.</desc><rect width="100%" height="100%" fill="white"/><g font-family="Arial, Liberation Sans, sans-serif" font-size="12" fill="#202832">
+<text x="16" y="24" font-weight="700" font-size="16">(a) Weighted-mean variance</text>
+<text x="370" y="24" font-weight="700" font-size="16">(b) Nonnegative optimal weights</text>
+<line x1="55" y1="243" x2="330" y2="243" stroke="#202832" stroke-opacity="0.15"/>
+<text x="47" y="247" text-anchor="end">0.00</text>
+<line x1="55" y1="187.2857" x2="330" y2="187.2857" stroke="#202832" stroke-opacity="0.15"/>
+<text x="47" y="191.2857" text-anchor="end">0.02</text>
+<line x1="55" y1="131.5714" x2="330" y2="131.5714" stroke="#202832" stroke-opacity="0.15"/>
+<text x="47" y="135.5714" text-anchor="end">0.04</text>
+<line x1="55" y1="75.8571" x2="330" y2="75.8571" stroke="#202832" stroke-opacity="0.15"/>
+<text x="47" y="79.8571" text-anchor="end">0.06</text>
+<line x1="55" y1="243" x2="330" y2="243" stroke="#202832" />
+<line x1="55" y1="243" x2="55" y2="75.8571" stroke="#202832" />
+<text x="16" y="150" transform="rotate(-90 16 150)" text-anchor="middle">Variance</text>
+<rect x="95" y="72.7619" width="80" height="170.2381" fill="#677582" />
+<text x="135" y="64.7619" text-anchor="middle">0.061111</text>
+<text x="135" y="263" text-anchor="middle">Uniform</text>
+<rect x="215" y="102.8243" width="80" height="140.1757" fill="#0072B2" />
+<text x="255" y="94.8243" text-anchor="middle">0.050319</text>
+<text x="255" y="263" text-anchor="middle">Optimized</text>
+<line x1="400" y1="243" x2="675" y2="243" stroke="#202832" stroke-opacity="0.15"/>
+<text x="392" y="247" text-anchor="end">0%</text>
+<line x1="400" y1="178" x2="675" y2="178" stroke="#202832" stroke-opacity="0.15"/>
+<text x="392" y="182" text-anchor="end">20%</text>
+<line x1="400" y1="113" x2="675" y2="113" stroke="#202832" stroke-opacity="0.15"/>
+<text x="392" y="117" text-anchor="end">40%</text>
+<line x1="400" y1="48" x2="675" y2="48" stroke="#202832" stroke-opacity="0.15"/>
+<text x="392" y="52" text-anchor="end">60%</text>
+<line x1="400" y1="243" x2="675" y2="243" stroke="#202832" />
+<line x1="400" y1="243" x2="400" y2="48" stroke="#202832" />
+<text x="369" y="150" transform="rotate(-90 369 150)" text-anchor="middle">Weight (%)</text>
+<rect x="420" y="61.2907" width="55" height="181.7093" fill="#0072B2" />
+<text x="447.5" y="53.2907" text-anchor="middle">55.91%</text>
+<text x="447.5" y="263" text-anchor="middle">J1</text>
+<rect x="505" y="165.1246" width="55" height="77.8754" fill="#0072B2" />
+<text x="532.5" y="157.1246" text-anchor="middle">23.96%</text>
+<text x="532.5" y="263" text-anchor="middle">J2</text>
+<rect x="590" y="177.5847" width="55" height="65.4153" fill="#0072B2" />
+<text x="617.5" y="169.5847" text-anchor="middle">20.13%</text>
+<text x="617.5" y="263" text-anchor="middle">J3</text>
+<text x="192" y="286" text-anchor="middle" font-size="10">Variance reduction only</text>
+<text x="538" y="286" text-anchor="middle" font-size="10">Error probabilities: 0.10, 0.30, 0.50</text>
+</g></svg>

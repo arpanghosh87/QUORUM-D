@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+results/*
+!results/README.md
+!results/table5.csv
+!results/majority_simulation.csv
+!results/calibration_sensitivity.csv
+!results/synthetic_correlation.csv
+!results/reference_heldout.csv
+!results/strengthening.json
+!results/figures/
+!results/figures/*.svg

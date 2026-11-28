@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="7in" height="3.4in" viewBox="0 0 700 340" role="img"><title>Calibration sensitivity</title><desc>Mean held-out ESS and one standard deviation among successful fits; fitting failures shown separately.</desc><rect width="100%" height="100%" fill="white"/><g font-family="Arial, Liberation Sans, sans-serif" font-size="12" fill="#202832">
+<text x="16" y="24" font-weight="700" font-size="16">(a) Held-out ESS</text>
+<text x="370" y="24" font-weight="700" font-size="16">(b) Fitting outcomes</text>
+<line x1="55" y1="270" x2="330" y2="270" stroke="#202832" stroke-opacity="0.15"/>
+<text x="47" y="274" text-anchor="end">1.78</text>
+<line x1="55" y1="196.6667" x2="330" y2="196.6667" stroke="#202832" stroke-opacity="0.15"/>
+<text x="47" y="200.6667" text-anchor="end">1.82</text>
+<line x1="55" y1="123.3333" x2="330" y2="123.3333" stroke="#202832" stroke-opacity="0.15"/>
+<text x="47" y="127.3333" text-anchor="end">1.86</text>
+<line x1="55" y1="50" x2="330" y2="50" stroke="#202832" stroke-opacity="0.15"/>
+<text x="47" y="54" text-anchor="end">1.90</text>
+<line x1="55" y1="270" x2="330" y2="270" stroke="#202832" />
+<line x1="55" y1="270" x2="55" y2="50" stroke="#202832" />
+<text x="16" y="165" transform="rotate(-90 16 165)" text-anchor="middle">Effective sample size</text>
+<line x1="81" y1="253.3194" x2="81" y2="104.0247" stroke="#202832" stroke-width="2"/>
+<line x1="76" y1="253.3194" x2="86" y2="253.3194" stroke="#202832" />
+<line x1="76" y1="104.0247" x2="86" y2="104.0247" stroke="#202832" />
+<circle cx="81" cy="178.6721" r="5" fill="#0072B2" />
+<text x="81" y="288" text-anchor="middle">25</text>
+<line x1="154" y1="159.9562" x2="154" y2="108.45" stroke="#202832" stroke-width="2"/>
+<line x1="149" y1="159.9562" x2="159" y2="159.9562" stroke="#202832" />
+<line x1="149" y1="108.45" x2="159" y2="108.45" stroke="#202832" />
+<circle cx="154" cy="134.2031" r="5" fill="#0072B2" />
+<text x="154" y="288" text-anchor="middle">100</text>
+<line x1="227" y1="112.4534" x2="227" y2="98.7281" stroke="#202832" stroke-width="2"/>
+<line x1="222" y1="112.4534" x2="232" y2="112.4534" stroke="#202832" />
+<line x1="222" y1="98.7281" x2="232" y2="98.7281" stroke="#202832" />
+<circle cx="227" cy="105.5907" r="5" fill="#0072B2" />
+<text x="227" y="288" text-anchor="middle">500</text>
+<line x1="300" y1="101.6638" x2="300" y2="97.3783" stroke="#202832" stroke-width="2"/>
+<line x1="295" y1="101.6638" x2="305" y2="101.6638" stroke="#202832" />
+<line x1="295" y1="97.3783" x2="305" y2="97.3783" stroke="#202832" />
+<circle cx="300" cy="99.5211" r="5" fill="#0072B2" />
+<text x="300" y="288" text-anchor="middle">2000</text>
+<text x="192" y="315" text-anchor="middle">Calibration items (categories)</text>
+<line x1="400" y1="270" x2="675" y2="270" stroke="#202832" stroke-opacity="0.15"/>
+<text x="392" y="274" text-anchor="end">0</text>
+<line x1="400" y1="226" x2="675" y2="226" stroke="#202832" stroke-opacity="0.15"/>
+<text x="392" y="230" text-anchor="end">10</text>
+<line x1="400" y1="182" x2="675" y2="182" stroke="#202832" stroke-opacity="0.15"/>
+<text x="392" y="186" text-anchor="end">20</text>
+<line x1="400" y1="138" x2="675" y2="138" stroke="#202832" stroke-opacity="0.15"/>
+<text x="392" y="142" text-anchor="end">30</text>
+<line x1="400" y1="94" x2="675" y2="94" stroke="#202832" stroke-opacity="0.15"/>
+<text x="392" y="98" text-anchor="end">40</text>
+<line x1="400" y1="50" x2="675" y2="50" stroke="#202832" stroke-opacity="0.15"/>
+<text x="392" y="54" text-anchor="end">50</text>
+<line x1="400" y1="270" x2="675" y2="270" stroke="#202832" />
+<line x1="400" y1="270" x2="400" y2="50" stroke="#202832" />
+<text x="369" y="165" transform="rotate(-90 369 165)" text-anchor="middle">Fitting attempts</text>
+<rect x="420" y="160" width="38" height="110" fill="#0072B2" />
+<rect x="420" y="50" width="38" height="110" fill="#D55E00" />
+<text x="439" y="288" text-anchor="middle">25</text>
+<rect x="485" y="94" width="38" height="176" fill="#0072B2" />
+<rect x="485" y="50" width="38" height="44" fill="#D55E00" />
+<text x="504" y="288" text-anchor="middle">100</text>
+<rect x="550" y="50" width="38" height="220" fill="#0072B2" />
+<rect x="550" y="50" width="38" height="0" fill="#D55E00" />
+<text x="569" y="288" text-anchor="middle">500</text>
+<rect x="615" y="50" width="38" height="220" fill="#0072B2" />
+<rect x="615" y="50" width="38" height="0" fill="#D55E00" />
+<text x="634" y="288" text-anchor="middle">2000</text>
+<rect x="420" y="309" width="10" height="10" fill="#0072B2" />
+<text x="435" y="319" >Successful</text>
+<rect x="530" y="309" width="10" height="10" fill="#D55E00" />
+<text x="545" y="319" >Failed</text>
+</g></svg>

@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this research reproducibility code, please cite the repository and associated QUORUM-D manuscript."
+title: "QUORUM-D: Analytical and synthetic reproducibility materials"
+authors:
+  - family-names: Ghosh
+    given-names: Arpan Kumar
+version: 0.1.0
+repository-code: "https://github.com/arpanghosh87/QUORUM-D"
+license: MIT

@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="7in" height="3.55in" viewBox="0 0 700 355" role="img"><title>Synthetic held-out policy comparison</title><desc>Assumed expenditure and mean error are visualized; feasibility uses dimension-specific limits. Bootstrap intervals are descriptive.</desc><rect width="100%" height="100%" fill="white"/><g font-family="Arial, Liberation Sans, sans-serif" font-size="12" fill="#202832">
+<text x="16" y="24" font-weight="700" font-size="16">(a) Cost–error comparison</text>
+<text x="370" y="24" font-weight="700" font-size="16">(b) Paired error differences</text>
+<line x1="49" y1="278" x2="333" y2="278" stroke="#202832" stroke-opacity="0.15"/>
+<text x="41" y="282" text-anchor="end">5%</text>
+<line x1="49" y1="223" x2="333" y2="223" stroke="#202832" stroke-opacity="0.15"/>
+<text x="41" y="227" text-anchor="end">10%</text>
+<line x1="49" y1="168" x2="333" y2="168" stroke="#202832" stroke-opacity="0.15"/>
+<text x="41" y="172" text-anchor="end">15%</text>
+<line x1="49" y1="113" x2="333" y2="113" stroke="#202832" stroke-opacity="0.15"/>
+<text x="41" y="117" text-anchor="end">20%</text>
+<line x1="49" y1="58" x2="333" y2="58" stroke="#202832" stroke-opacity="0.15"/>
+<text x="41" y="62" text-anchor="end">25%</text>
+<line x1="49" y1="278" x2="333" y2="278" stroke="#202832" />
+<line x1="49" y1="278" x2="49" y2="58" stroke="#202832" />
+<text x="14" y="165" transform="rotate(-90 14 165)" text-anchor="middle">Mean dimension error (%)</text>
+<line x1="58.4667" y1="278" x2="58.4667" y2="283" stroke="#202832" />
+<text x="58.4667" y="296" text-anchor="middle" font-size="10">0.025</text>
+<line x1="105.8" y1="278" x2="105.8" y2="283" stroke="#202832" />
+<text x="105.8" y="296" text-anchor="middle" font-size="10">0.030</text>
+<line x1="153.1333" y1="278" x2="153.1333" y2="283" stroke="#202832" />
+<text x="153.1333" y="296" text-anchor="middle" font-size="10">0.035</text>
+<line x1="200.4667" y1="278" x2="200.4667" y2="283" stroke="#202832" />
+<text x="200.4667" y="296" text-anchor="middle" font-size="10">0.040</text>
+<line x1="247.8" y1="278" x2="247.8" y2="283" stroke="#202832" />
+<text x="247.8" y="296" text-anchor="middle" font-size="10">0.045</text>
+<line x1="295.1333" y1="278" x2="295.1333" y2="283" stroke="#202832" />
+<text x="295.1333" y="296" text-anchor="middle" font-size="10">0.050</text>
+<text x="191" y="319" text-anchor="middle">Assumed cost per item (USD)</text>
+<line x1="257.2667" y1="45" x2="257.2667" y2="278" stroke="#202832" stroke-dasharray="4 3"/>
+<text x="253.2667" y="41" text-anchor="end" font-size="10">Budget $0.046</text>
+<circle cx="209.9333" cy="184.225" r="4.5" fill="#0072B2" />
+<text x="202.9333" y="173.225" font-size="10" text-anchor="end">Separate</text>
+<rect x="111.2667" y="91.95" width="8" height="8" fill="#D55E00" />
+<text x="122.2667" y="86.95" font-size="10" text-anchor="start">Uniform / weighted</text>
+<rect x="300.6" y="249.1125" width="8" height="8" fill="#D55E00" />
+<text x="298.6" y="243.1125" font-size="10" text-anchor="end">Verifier only</text>
+<circle cx="242.7708" cy="186.425" r="4.5" fill="#0072B2" />
+<text x="250.7708" y="200.425" font-size="10" text-anchor="start">Selective</text>
+<circle cx="67.9333" cy="193.1625" r="6" fill="#0072B2" />
+<text x="74.9333" y="210.1625" font-size="10" text-anchor="start">Shared (selected)</text>
+<circle cx="54" cy="340" r="4" fill="#0072B2" />
+<text x="64" y="344" font-size="10">Feasible</text>
+<rect x="130" y="336" width="8" height="8" fill="#D55E00" />
+<text x="144" y="344" font-size="10">Infeasible</text>
+<line x1="558" y1="52" x2="558" y2="273" stroke="#202832" stroke-dasharray="4 3"/>
+<text x="390" y="85" font-weight="700">Dimension 1</text>
+<line x1="580.4" y1="110" x2="658.1" y2="110" stroke="#202832" stroke-width="2"/>
+<line x1="580.4" y1="105" x2="580.4" y2="115" stroke="#202832" />
+<line x1="658.1" y1="105" x2="658.1" y2="115" stroke="#202832" />
+<circle cx="620.3" cy="110" r="5" fill="#D55E00" />
+<text x="620.3" y="132" text-anchor="middle" font-size="11">2.225 pp</text>
+<text x="390" y="185" font-weight="700">Dimension 2</text>
+<line x1="408.2" y1="210" x2="494.3" y2="210" stroke="#202832" stroke-width="2"/>
+<line x1="408.2" y1="205" x2="408.2" y2="215" stroke="#202832" />
+<line x1="494.3" y1="205" x2="494.3" y2="215" stroke="#202832" />
+<circle cx="450.2" cy="210" r="5" fill="#0072B2" />
+<text x="450.2" y="232" text-anchor="middle" font-size="11">-3.85 pp</text>
+<line x1="390" y1="278" x2="670" y2="278" stroke="#202832" />
+<line x1="390" y1="278" x2="390" y2="283" stroke="#202832" />
+<text x="390" y="296" text-anchor="middle">-6</text>
+<line x1="446" y1="278" x2="446" y2="283" stroke="#202832" />
+<text x="446" y="296" text-anchor="middle">-4</text>
+<line x1="502" y1="278" x2="502" y2="283" stroke="#202832" />
+<text x="502" y="296" text-anchor="middle">-2</text>
+<line x1="558" y1="278" x2="558" y2="283" stroke="#202832" />
+<text x="558" y="296" text-anchor="middle">0</text>
+<line x1="614" y1="278" x2="614" y2="283" stroke="#202832" />
+<text x="614" y="296" text-anchor="middle">2</text>
+<line x1="670" y1="278" x2="670" y2="283" stroke="#202832" />
+<text x="670" y="296" text-anchor="middle">4</text>
+<text x="530" y="319" text-anchor="middle" font-size="11">Shared − separate error (percentage points)</text>
+<text x="530" y="344" text-anchor="middle" font-size="10">95% paired percentile intervals</text>
+</g></svg>
